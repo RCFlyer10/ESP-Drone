@@ -13071,7 +13071,8 @@
 		(dnp no)
 		(uuid "0183af77-59df-491f-8366-5b1e8144727f")
 		(property "Reference" "R8"
-			(at 83.82 109.728 90)
+			(at 85.598 107.442 90)
+			(do_not_autoplace yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13079,7 +13080,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1k"
+		(property "Value" "0R"
 			(at 85.852 109.728 90)
 			(effects
 				(font
@@ -14974,7 +14975,8 @@
 		(dnp no)
 		(uuid "3382698a-4acc-4cf2-84f1-00dddb27a297")
 		(property "Reference" "R9"
-			(at 83.82 112.268 90)
+			(at 85.598 114.554 90)
+			(do_not_autoplace yes)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14982,7 +14984,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1k"
+		(property "Value" "0R"
 			(at 85.852 112.268 90)
 			(effects
 				(font
@@ -15298,7 +15300,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10u"
+		(property "Value" "10uf"
 			(at 97.409 45.974 0)
 			(effects
 				(font
@@ -17302,7 +17304,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "3.3K"
+		(property "Value" "1.3K"
 			(at 118.11 50.038 0)
 			(effects
 				(font
@@ -21130,7 +21132,7 @@
 				)
 			)
 		)
-		(property "Value" "K3-1280S-F1 "
+		(property "Value" "MSS3-Q-T/R"
 			(at 220.98 45.974 0)
 			(effects
 				(font
@@ -21465,7 +21467,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1uf"
+		(property "Value" "10uf"
 			(at 139.827 110.363 0)
 			(effects
 				(font
